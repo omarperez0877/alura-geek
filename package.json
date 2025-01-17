@@ -1,0 +1,12 @@
+{
+    "name": "json-server-api",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+      "start": "json-server --watch db.json --port 8080"
+    },
+    "dependencies": {
+      "json-server": "^0.17.3"
+    }
+  }
+  
