@@ -3,10 +3,22 @@
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
-      "start": "json-server --watch db.json --port 8080"
+        "start": "json-server --watch db.json --port 8080"
     },
     "dependencies": {
-      "json-server": "^0.17.3"
-    }
-  }
-  
+        "json-server": "^0.17.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/omarperez0877/alura-geek.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/omarperez0877/alura-geek/issues"
+    },
+    "homepage": "https://github.com/omarperez0877/alura-geek#readme",
+    "description": ""
+}
