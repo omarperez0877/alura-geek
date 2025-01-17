@@ -72,7 +72,7 @@ const saveProduct = async (product) => {
       });
     }
     resetForm();
-    fetchProducts();
+    await fetchProducts(); // Asegurarse de que los productos se actualicen después de guardar
   } catch (error) {
     console.error('Error saving product:', error);
   }
