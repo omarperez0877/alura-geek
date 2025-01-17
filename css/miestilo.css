@@ -117,6 +117,37 @@ button:hover {
   transform: scale(1.05);
 }
 
+footer {
+  background-color: #6200ea;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.footer-links {
+  margin-top: 0.5rem;
+}
+
+.footer-links a {
+  color: #ffeb3b;
+  margin: 0 0.5rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #ffc107;
+}
+
+
 /* Dispositivos pequeños: celulares */
 @media (max-width: 600px) {
   header {
