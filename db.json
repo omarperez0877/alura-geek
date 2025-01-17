@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Taza de Pacman",
+      "price": 359,
+      "image": "https://imgs.search.brave.com/wnuj7IE_fi1biR-0RBFl7XG9f7Esgt-sg4Ok7u76Kyo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFCRks5RllMS0wu/anBn",
+      "id": "8092"
+    },
+    {
+      "id": "f510",
+      "name": "Lampara PCB",
+      "price": "355",
+      "image": "https://imgs.search.brave.com/3fDnxj6PnqAT26iEtunoMPh9VvGVLa_L0syfyjESN7c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODF1Z2Y2bVlkREwu/anBn"
+    },
+    {
+      "id": "cb9d",
+      "name": "Taza Game of Thrones",
+      "price": "399",
+      "image": "https://imgs.search.brave.com/KiNTVPb9VQFLaL6aliQQP-CGI1ano3hCwnwjv2udPVk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFNS0RCNVNGdEwu/anBn"
+    },
+    {
+      "id": "0053",
+      "name": "Funko Pop",
+      "price": "589",
+      "image": "https://imgs.search.brave.com/Z4cS8f4CPvHLas66RzU2NzlGU8-lqdU0xhrpBWyEwxA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2Vla2F0bW9zcGhl/cmUuY29tL3Byb2R1/Y3Rvcy9pbWFnZW5l/cy9pbWdfNDU1OThf/NDc0ZmIwMDY5Y2Qz/OWQ0NDMzYTUxNjFj/YjY5M2EyMjZfMTYu/anBn"
+    },
+    {
+      "name": "Funko Linterna Verde",
+      "price": 300,
+      "image": "https://imgs.search.brave.com/ulcTM6q4GJTOrx-k4Nf2rAAwdCxexFuuwsbMlu1rdmQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2Vla2F0bW9zcGhl/cmUuY29tL3Byb2R1/Y3Rvcy9pbWFnZW5l/cy9pbWdfMTg2MjVf/YjViMzFkYzJiODdl/MjEyNDBlN2QzYjIx/MDVkNWZmZWVfMTYu/anBn",
+      "id": "f383"
+    },
+    {
+      "id": "593f",
+      "name": "Funko shishido",
+      "price": "589",
+      "image": "https://imgs.search.brave.com/bpaRXR4tY84jIgRiFGZ3Ub3rOBIoEwCB0yRCeYmVHtE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2Vla2F0bW9zcGhl/cmUuY29tL3Byb2R1/Y3Rvcy9pbWFnZW5l/cy9pbWdfNDIzMDFf/MmFjNjYwZDYxNzgw/ODM1MDBlMzJlYWY3/MDI5NzVmZTVfMTYu/anBn"
+    }
+  ]
+}
