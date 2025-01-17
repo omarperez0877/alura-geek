@@ -1,7 +1,7 @@
 const form = document.getElementById('product-form');
 const productsList = document.getElementById('products-list');
 const searchInput = document.getElementById('search');
-const apiUrl = 'http://localhost:3000/products';
+const apiUrl = 'https://alura-geek-crb7.onrender.com';
 
 // Mostrar spinner mientras se cargan los productos
 const spinner = document.createElement('div');
